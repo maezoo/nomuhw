@@ -1,6 +1,6 @@
 @use "./reset.scss";
 @use "./fullpage.scss";
-// @use "./header.scss";
+@use "./header.scss";
 // @use "./footer.scss";
 
 // @use "./coding.scss";
@@ -30,6 +30,12 @@ body {
     // flex-direction: column;
     font-size: 14px;
     line-height: 1.5;
+}
+
+#wrap{
+    width: 100%;
+    height: 100%;
+    position: relative;
 }
 
 li {

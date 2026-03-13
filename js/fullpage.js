@@ -1,8 +1,8 @@
-var myFullpage = new fullpage('#fullpage', {
-    verticalCentered: true,
-    anchors: ['anchor1', 'anchor2', 'anchor3'],
-    menu: '#menu',
-});
+// var myFullpage = new fullpage('#fullpage', {
+//     verticalCentered: true,
+//     anchors: ['anchor1', 'anchor2', 'anchor3'],
+//     menu: '#menu',
+// });
 
 new fullpage('#fullpage', {
     // 옵션 설정
