@@ -1,6 +1,7 @@
 @use "./reset.scss";
-@use "./header.scss";
-@use "./footer.scss";
+@use "./fullpage.scss";
+// @use "./header.scss";
+// @use "./footer.scss";
 
 // @use "./coding.scss";
 // @use "./design.scss";
@@ -48,3 +49,4 @@ main {
     width: 100%;
     max-width: 1920px;
 }
+

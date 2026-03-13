@@ -1,0 +1,24 @@
+#fullpage {
+    max-width: 1920px;
+    width: 100%;
+}
+
+.section {
+    width: 100%;
+    height: 100%;
+}
+
+.section:nth-child(1) {
+    background: rgb(243, 120, 141);
+
+}
+
+.section:nth-child(2) {
+    background: pink;
+
+}
+
+.section:nth-child(3) {
+    background: rgb(53, 30, 120);
+
+}
